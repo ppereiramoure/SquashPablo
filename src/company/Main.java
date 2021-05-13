@@ -7,5 +7,7 @@ public class Main {
         System.out.println("Main");
 
         System.out.println("Cambio 1");
+
+        System.out.println("Cambio 2");
     }
 }
