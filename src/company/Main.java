@@ -8,5 +8,6 @@ public class Main {
 
         System.out.println("Apruebalo");
         System.out.println("Por");
+        System.out.println("Fa");
     }
 }
